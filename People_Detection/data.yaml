@@ -1,7 +1,10 @@
 path: ../IRdataset/People_Detection
-train: train/images
-val: valid/images
-test: test/images
+train:
+  - train/images
+val:
+  - valid/images
+test:
+  - test/images
 
 names:
   0: person
