@@ -1,10 +1,10 @@
-path: ../IRdataset/People_Detection
+path: ../IRdataset
 train:
-  - train/images
+  - People_Detection/train/images
 val:
-  - valid/images
+  - People_Detection/train/imagesvalid/images
 test:
-  - test/images
+  - People_Detection/train/imagestest/images
 
 names:
   0: person
