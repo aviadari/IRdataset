@@ -3,21 +3,17 @@ train:
 #  - People_Detection/train/images
 #  - IR_people_v2/train/images
   - self_video/train/images
+  - hit_uav/train/images
 val:
 #  - People_Detection/valid/images
 #  - IR_people_v2/valid/images
   - self_video/valid/images
+  - hit_uav/valid/images
 test:
 #  - People_Detection/test/images
 #  - IR_people_v2/test/images
   - self_video/test/images
+  - hit_uav/test/images
 
 names:
   0: person
-
-roboflow:
-  workspace: roboflow-universe-projects
-  project: people-detection-thermal
-  version: 5
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/roboflow-universe-projects/people-detection-thermal/dataset/5
