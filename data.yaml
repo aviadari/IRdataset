@@ -5,12 +5,14 @@ train:
   - self_video/train/images
   - hit_uav/train/images
   - ir_3/train/images
+  - ir_4/train/images
 val:
 #  - People_Detection/valid/images
 #  - IR_people_v2/valid/images
   - self_video/valid/images
   - hit_uav/valid/images
   - ir_3/valid/images
+  - ir_4/valid/images
 test:
 #  - People_Detection/test/images
 #  - IR_people_v2/test/images
