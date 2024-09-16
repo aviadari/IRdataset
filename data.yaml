@@ -6,6 +6,7 @@ train:
   - hit_uav/train/images
   - ir_3/train/images
   - ir_4/train/images
+  - ir_5/train/images
 val:
 #  - People_Detection/valid/images
 #  - IR_people_v2/valid/images
@@ -13,6 +14,7 @@ val:
   - hit_uav/valid/images
   - ir_3/valid/images
   - ir_4/valid/images
+  - ir_5/valid/images
 test:
 #  - People_Detection/test/images
 #  - IR_people_v2/test/images
