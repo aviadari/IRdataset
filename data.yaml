@@ -8,6 +8,8 @@ train:
   - ir_4/train/images
   - ir_5/train/images
   - Thermal_Human_Detection_from_UAV/train/images
+  - drone_2/train/images
+  - UAV_thermal_image_dataset/train/images
 val:
 #  - People_Detection/valid/images
 #  - IR_people_v2/valid/images
@@ -16,6 +18,8 @@ val:
   - ir_3/valid/images
   - ir_4/valid/images
   - ir_5/valid/images
+  - drone_2/valid/images
+  - UAV_thermal_image_dataset/valid/images
 test:
 #  - People_Detection/test/images
 #  - IR_people_v2/test/images
