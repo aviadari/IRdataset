@@ -10,6 +10,7 @@ train:
   - Thermal_Human_Detection_from_UAV/train/images
   - drone_2/train/images
   - UAV_thermal_image_dataset/train/images
+  - VEDAI_1024/images
 val:
 #  - People_Detection/valid/images
 #  - IR_people_v2/valid/images
